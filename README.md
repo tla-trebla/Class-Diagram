@@ -1,6 +1,7 @@
 # Class-Diagram
 
-This learning is based from Design Patterns by Tutorials by Ray Wenderlich. Link: https://www.raywenderlich.com/books/design-patterns-by-tutorials
+This learning is based from Design Patterns by Tutorials by Ray Wenderlich. 
+Link: https://www.raywenderlich.com/books/design-patterns-by-tutorials
 
 ## Things I've Learned
 
